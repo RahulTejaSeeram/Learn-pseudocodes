@@ -1,44 +1,44 @@
 # Learn-pseudocodes
 I am Learn pseudocodes from different websites , books and videos
 We need to complete all the Exercises
-Exercise 1
-Question: Write a pseudocode to find the sum of two numbers.
+# Exercise 1
+## Question: Write a pseudocode to find the sum of two numbers.
 
-Solution:
+## Solution:
 
 
 Procedure SumOfTwoNumbers
     // Your Code Here
 End Procedure
-Exercise 2
-Question: Write a pseudocode to find the maximum of three numbers.
+#Exercise 2
+## Question: Write a pseudocode to find the maximum of three numbers.
 
-Solution:
+## Solution:
 
 
 Procedure MaximumOfThreeNumbers
     // Your Code here
 End Procedure
-Exercise 3
-Question: Write a pseudocode to check if a number is even or odd.
+# Exercise 3
+## Question: Write a pseudocode to check if a number is even or odd.
 
-Solution:
+## Solution:
 
 Procedure CheckEvenOrOdd
     // Your Code Here
 End Procedure
-Exercise 4
-Question: Write a pseudocode to calculate the factorial of a number.
+# Exercise 4
+## Question: Write a pseudocode to calculate the factorial of a number.
 
-Solution:
+## Solution:
 
 Procedure Factorial
     // You Code Here
 End Procedure
-Exercise 5
-Question: Write a pseudocode to check if a number is prime.
+# Exercise 5
+## Question: Write a pseudocode to check if a number is prime.
 
-Solution:
+## Solution:
 
 Procedure CheckPrime
     Input: num (a positive integer)
@@ -46,37 +46,37 @@ Procedure CheckPrime
     
     // Your code here
 End Procedure
-Exercise 6
-Question: Write a pseudocode to swap two numbers.
+# Exercise 6
+## Question: Write a pseudocode to swap two numbers.
 
-Solution:
+## Solution:
 
 Procedure SwapNumbers
     // Your code here
 End Procedure
 
-Exercise 7
-Question: Write a pseudocode to calculate the area of a rectangle.
+# Exercise 7
+## Question: Write a pseudocode to calculate the area of a rectangle.
 
-Solution:
+## Solution:
 
 Procedure AreaOfRectangle
     // Your code here
 End Procedure
-Exercise 8
-Question: Write a pseudocode to find the Fibonacci series up to a given limit.
+# Exercise 8
+## Question: Write a pseudocode to find the Fibonacci series up to a given limit.
 
-Solution:
+## Solution:
 
 Procedure FibonacciSeries
     Input: limit (upper limit for Fibonacci series)
 
     // Your code here
 End Procedure
-Exercise 9
-Question: Write a pseudocode to calculate the square root of a number using Newton's method.
+# Exercise 9
+## Question: Write a pseudocode to calculate the square root of a number using Newton's method.
 
-Solution:
+## Solution:
 
 Procedure SquareRoot
     Input: num (a positive number)
