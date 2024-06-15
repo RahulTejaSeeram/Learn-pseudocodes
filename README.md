@@ -52,7 +52,7 @@ End Procedure
 ## Solution:
 
 Procedure SwapNumbers
-    // Your code here
+ // Your code here
 End Procedure
 
 # Exercise 7
