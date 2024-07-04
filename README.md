@@ -6,7 +6,6 @@ We need to complete all the Exercises
 
 ## Solution:
 
-
 Procedure SumOfTwoNumbers
     // Your Code Here
 End Procedure
