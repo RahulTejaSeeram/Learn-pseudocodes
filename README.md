@@ -14,8 +14,6 @@ End Procedure
 
 ## Solution:
 
-
-
 Procedure MaximumOfThreeNumbers
     // Your Code here
 End Procedure
