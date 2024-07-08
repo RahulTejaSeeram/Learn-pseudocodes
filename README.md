@@ -8,10 +8,9 @@ We need to complete all the Exercises
 ## Solution:
 Procedure SumOfTwoNumbers
     // Your Code Here
-End Procedure
+End Procedur
 #Exercise 2
 ## Question: Write a pseudocode to find the maximum of three numbers.
-
 ## Solution:
 
 Procedure MaximumOfThreeNumbers
